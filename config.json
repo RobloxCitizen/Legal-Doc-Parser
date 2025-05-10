@@ -1,0 +1,14 @@
+{
+  "legal_pages": [
+      "/privacy",
+      "/terms",
+      "/policy",
+      "/legal",
+      "/conditions",
+      "/eula",
+      "/tos",
+      "/user-agreement",
+      "/disclaimer"
+  ],
+  "openai_api_key": ""
+}
