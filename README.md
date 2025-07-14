@@ -4,6 +4,6 @@ MVP для парсинга юридических документов, их и
 
 ## Установка
 1. Клонируйте репозиторий:
-   `powershell
+   ```powershell
    git clone <your-repo-url>
    cd legal_doc_parser
